@@ -1,5 +1,5 @@
 # VarInt
-The idea is quite simple, can we create a integer that consists of a variable number of bits
+The idea is quite simple, can we create a integer that consists of a variable number of bits?  
 The value of the integer is manipulated by doing simple bitwise arithmetic.
 
 This implementation has lots of room for improvement
